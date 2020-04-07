@@ -43,7 +43,7 @@
 ### Built with styled-components
 
 #### Components
-
+* [flymenu-reactjs](https://github.com/SubZane/flymenu-reactjs) - Off-canvas menu component.
 * [styled-off-canvas](https://github.com/marco-streng/styled-off-canvas) - Simple off canvas menu
 * [React95](https://github.com/arturbien/React95) - Windows 95 style UI components for your React app.
 * [react-functional-select](https://github.com/based-ghost/react-functional-select) - Micro-sized & micro-optimized select component for React.js.
